@@ -14,4 +14,4 @@
 ```
 ### 📖 Conhecimentos
 
-![Skills](https://skillicons.dev/icons?i=python,java,cypress,js,postman,clojure,junit,jmeter)
+![Skills](https://skillicons.dev/icons?i=python,java,js,cypress,postman,clojure,junit,jmeter)
