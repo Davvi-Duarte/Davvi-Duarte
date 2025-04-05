@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=25&duration=4000&pause=500&color=2C98C8&vCenter=true&width=320&height=30&lines=Hey+there+!;I'm+Davvi+Duarte+!;Welcome+to+my+profile+!)
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-<img align="right" height="1000" style="margin-left: 25px" src="https://github.com/user-attachments/assets/2c135084-6f9c-4187-9ca3-670cc8690dbe"/>
+<img align="right" height="200px" style="margin-left: 25px" src="https://github.com/user-attachments/assets/e60504fc-1095-410f-9e1d-5b5d12f99088"/>
 
 ```diff
 < Davvi Duarte ⭐
