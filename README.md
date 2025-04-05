@@ -9,8 +9,8 @@
 > Graduando em Ciência da Computação pela UFCG;
 > Amante da área de QA
 
-! Cantor, compositor e instrumentista (violão)
 ! Membro do PET Computação desde 2020
+! Cantor, compositor e instrumentista (violão)
 ```
 ### 📖 Conhecimentos
 
