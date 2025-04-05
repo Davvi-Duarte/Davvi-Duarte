@@ -3,7 +3,7 @@
 <img align="right" height="200px" style="margin-left: 25px" src="https://github.com/user-attachments/assets/e60504fc-1095-410f-9e1d-5b5d12f99088"/>
 
 ```diff
-< Davvi Duarte ⭐
+⭐ Davvi Duarte ⭐
 
 > Técnico em informática pelo IFPB;
 > Graduando em Ciência da Computação pela UFCG;
