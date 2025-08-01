@@ -9,7 +9,8 @@
 > Graduando em Ciência da Computação pela UFCG;
 > Futuro QA Engineer
 
-! Membro do PET Computação desde 2020
+! Ex Membro do PET Computação - (2021 - 2025)
+! Desenvolvedor Pesquisador do NuFuturo (Nubank-UFCG)
 ! Cantor, compositor e instrumentista (violão)
 ```
 ### 📖 Conhecimentos
