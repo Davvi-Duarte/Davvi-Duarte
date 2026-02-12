@@ -6,11 +6,12 @@
 ⭐ Davvi Duarte ⭐
 
 > Técnico em informática pelo IFPB;
-> Graduando em Ciência da Computação pela UFCG;
+> Bacharel em Ciência da Computação pela UFCG;
+> Mestrando em Ciência da Computação pela UFCG;
 > Futuro QA Engineer
 
 ! Ex Membro do PET Computação - (2021 - 2025)
-! Desenvolvedor Pesquisador do NuFuturo (Nubank-UFCG)
+! Desenvolvedor Pesquisador do NuFuturo (Nubank-UFCG) | 2025-atual
 ! Cantor, compositor e instrumentista (violão)
 ```
 ### 📖 Conhecimentos
